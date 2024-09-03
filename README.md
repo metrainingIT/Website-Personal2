@@ -1,61 +1,13 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Halaman Web Belajar 1</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-            background: linear-gradient(to right, #ff7e5f, #feb47b);
-            color: #fff;
-            text-align: center;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+- 👋 Hi, I’m Ade Kurnia
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Web hosting
+- 💞️ I’m live in Depok
+- 📫 it's cool
+- 😄 i like learning new things
+- ⚡ awesome-!!!
 
-        .container {
-            max-width: 600px;
-            padding: 20px;
-            border-radius: 10px;
-            background: rgba(0, 0, 0, 0.6);
-        }
+<!---
+metrainingIT/metrainingIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-        h1 {
-            font-size: 2.5em;
-            margin-bottom: 20px;
-        }
-
-        p {
-            font-size: 1.2em;
-            margin-bottom: 30px;
-        }
-
-        a.button {
-            display: inline-block;
-            padding: 15px 30px;
-            font-size: 1.1em;
-            text-decoration: none;
-            color: #fff;
-            background-color: #333;
-            border-radius: 5px;
-            transition: background-color 0.3s ease;
-        }
-
-        a.button:hover {
-            background-color: #555;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Selamat Datang Ade!</h1>
-        <p>Ini adalah halaman web sederhana dengan desain yang keren. Semoga Anda menyukainya!</p>
-        <a href="#" class="button">Klik Saya</a>
-    </div>
-</body>
-</html>
